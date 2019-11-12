@@ -1,5 +1,10 @@
 # Correlated Equilibria Q-Learning
-This repository (https://github.gatech.edu/mkazakov3/RL_P3) contains code for third project of Reinforcement Learning class.
+
+This project reporduces the results of the ["Correlated Q-Learning" by _Amy Greenwald](https://www.aaai.org/Papers/ICML/2003/ICML03-034.pdf).
+
+In this project I've implemented and compared 4 Q-Learning algorithms in application to Markov game "Soccer" similarly to the paper approach.
+
+Summary of the project results can be found in Report.pdf
 
 ## Environment
 To run this code one has to create _python 3_ environment with following libraries:
